@@ -2,7 +2,7 @@
 *
 *  MIT License
 *
-*  Copyright (c) 2023-2024 awawa-dev
+*  Copyright (c) 2023-2026 awawa-dev
 *
 *  https://github.com/awawa-dev/HyperSerialPico
 
